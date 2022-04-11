@@ -1,5 +1,6 @@
 Django==4.0.3
 gunicorn
+python-dotenv
 
 # Uncomment Below for deploying on heroku
 # django-heroku
