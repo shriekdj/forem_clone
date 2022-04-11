@@ -8,6 +8,7 @@ authors = ["Shrikant Dhayje <shrikantdhayaje@gmail.com>"]
 python = "^3.8"
 Django = "^4.0.3"
 gunicorn = "^20.1.0"
+python-dotenv = "^0.20.0"
 
 [tool.poetry.dev-dependencies]
 
