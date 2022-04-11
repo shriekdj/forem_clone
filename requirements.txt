@@ -1,0 +1,5 @@
+Django==4.0.3
+gunicorn
+
+# Uncomment Below for deploying on heroku
+# django-heroku
