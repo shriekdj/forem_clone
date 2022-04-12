@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'blog.apps.BlogConfig',
 ]
 
 MIDDLEWARE = [
@@ -126,4 +127,5 @@ STATIC_URL = 'static/'
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 # The Variable Added for Running under the Replit Change It In Future as Same as Allowed hosts Read more at https://docs.djangoproject.com/en/4.0/ref/settings/#csrf-trusted-origins
+
 CSRF_TRUSTED_ORIGINS = ['https://*/admin/*', 'http://*', 'https://foremclone.shriekdj.repl.co']
