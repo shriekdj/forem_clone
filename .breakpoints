@@ -4,8 +4,16 @@
       {
         "id": "3a5819f2-317a-4b54-82a9-84b39386ac03",
         "line": 2,
-        "version": 102,
+        "version": 212,
         "index": 21
+      }
+    ],
+    "src/django_project/settings.py": [
+      {
+        "id": "c415384e-1c2b-4a21-a9d4-11649743714c",
+        "line": 10,
+        "version": 333,
+        "index": 258
       }
     ]
   }
